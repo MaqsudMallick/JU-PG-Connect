@@ -1,7 +1,26 @@
-# JU-PG-Connect
+## JU-PG-Connect
+
+- This is an ethuream based blockchain app which uses the concept of NFT marketspace, that allow you to put up PG rooms and hostels for rent and at the same time allows the students to book the same.
+
+![](./imagae-PG)
+
+### Tools used
+
+- Javascipt
+- Solidity
+- NextJS
+- ReactJS
+- Tailwind
+- Infura
+- Polygon
+
+###Prerequisites
+
+- Chrome
+- Metamask Extension for Chrome
 
 
-#### Local setup
+### Local setup
 
 To run this project locally, follow these steps.
 
