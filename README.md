@@ -1,19 +1,16 @@
-#Ju Conecrt
+# Ju Conecrt
 
-##JU eConnect Main Website
+## JU eConnect Main Website
 
 ![](./image-website)
 
-###Deployed - ()
+### Deployed - (https://ju-econnect-f3e75.web.app/)
 
-- https://ju-econnect-f3e75.web.app/
-
-
-##e- Meet 
+## e- Meet 
 
 eMeet is a video Chat web application. It is created to host all your meetings and seminars.
 
-###Deployed App - (https://ju-emeet.herokuapp.com)
+### Deployed App - (https://ju-emeet.herokuapp.com)
 
 ![](./image-meet.png)
 
@@ -23,7 +20,7 @@ eMeet is a video Chat web application. It is created to host all your meetings a
 - CSS
 - Javascript 
 
-###How to use
+### How to use
 
 - Navigate to the main Ju eConnect Website: (https://ju-econnect-f3e75.web.app/)
 - Go to Features drop down menu
@@ -35,15 +32,15 @@ eMeet is a video Chat web application. It is created to host all your meetings a
 - Join Meeting
 - Meet itself has multiple features which you can access through suggestive UI
 
-##JU-Voice-Connect
+## JU-Voice-Connect
 
 Voice conversations with pure P2P. Full power of WebRTC to create voice rooms to have a conversations, interviews and discussions.
 
 ![](./image-voice)
 
-###Deployed App - (https://ju-voice-connect.vercel.app/)
+### Deployed App - (https://ju-voice-connect.vercel.app/)
 
-###Tools used
+### Tools used
 - PeerJS
 - NextJS
 - Vercel. 
@@ -56,20 +53,20 @@ In no particular order,here are the features:
 - Mute/Unmute as Speaker
 - As host Promote listener to Speaker (Multi Speaker Room)
 
-##Health Chat, eConnect Chat, Alumni Chat
+## Health Chat, eConnect Chat, Alumni Chat
 
 all of these chats are made using the same concept but they cater to different purposes depending on the wide variety of their users.
 
 ![](./image-chat)
 
-###Deployed App
+### Deployed App
 
 - Health Chat :      (https://health-chat-f5faa.web.app/)
 - Alumini Chat:      (https://alumni-econnect.web.app/)
 - eConnect Chat:     (https://ju-chat-connect.web.app/) 
 
 
-###Features
+### Features
 
 - We have also added profanity filter in each of the apps.
 - You can create channels
@@ -82,7 +79,7 @@ all of these chats are made using the same concept but they cater to different p
 - Color Panel for changing to your favorite custom themes for the App
 - In the Health Chat app we have enabled annonymous feature as well as created seperate sections for direct messages.
 
-##Tools used
+## Tools used
 - Firebase
 - Firestore
 - Javascript
@@ -90,29 +87,29 @@ all of these chats are made using the same concept but they cater to different p
 - HTML
 - ReactJs
 
-##Health eConnector Bot
+## Health eConnector Bot
 
 ![](./image-bot)
 
-###Navigate to the main JU eConnect Website to use.
+### Navigate to the main JU eConnect Website to use.
 
-###Tools Used
+### Tools Used
 
 - IBM Watson Assistant APi
 
-###Features
+### Features
 
 - It has qurated questions based upon clinical studies to address to common mental health queries so as to understand your condition.
 - Based on the answers you provide the bot makes an evaluation and recommends you a channel which would suit you the best.
 
-##Emergency Bot
+## Emergency Bot
 
 ![](./image-emergency-bot)
 
 
 ###Navigate to the JU eConnect Website to Use.
 
-###Tools Used
+### Tools Used
 
 - IBM Watson Assistant APi
 
@@ -120,13 +117,13 @@ all of these chats are made using the same concept but they cater to different p
 
 - Helps in booking ambulance as well as hospital appointments.
 
-##Ju Community Post - 
+## Ju Community Post - 
 
 ###Deployed App - (https://ju-community-post.web.app/)
 
 ![](./image-community)
 
-###Tools used
+### Tools used
 
 - React Js
 - Javascript
@@ -155,7 +152,7 @@ all of these chats are made using the same concept but they cater to different p
 - Polygon
 - HardHat
 
-###Prerequisites
+### Prerequisites
 
 - Chrome
 - Metamask Extension for Chrome
